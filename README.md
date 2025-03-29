@@ -25,3 +25,7 @@ async def handle_message(message, update_type):
 
 bot.run()
 ```
+
+## Examples
+
+See [examples](examples/) directory for more usage examples.
