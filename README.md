@@ -5,7 +5,7 @@ A simple and efficient asynchronous Telegram Bot API client.
 ## Installation
 
 ```bash
-pip install TeleFlow
+pip install -U TeleFlow
 ```
 
 ## Usage
